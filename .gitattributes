@@ -1,0 +1,10 @@
+# Sources
+*.c    text diff=c
+*.h    text diff=c
+*.hpp  text diff=cpp
+
+# Compiled Dynamic libraries
+*.dll  binary
+
+# Compiled Static libraries
+*.lib binary
